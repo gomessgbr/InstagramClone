@@ -1,0 +1,40 @@
+export const stories= [
+    {
+        image:'https://avatars.githubusercontent.com/u/39136800?s=400&u=33cd3981aeb34653438e1910bbf7fa2b1565196a&v=4',
+        name:'Gabriel',
+    },
+    {
+        image:'https://avatars.githubusercontent.com/u/39136800?s=400&u=33cd3981aeb34653438e1910bbf7fa2b1565196a&v=4',
+        name:'Coronel',
+    },
+    {
+        image:'https://avatars.githubusercontent.com/u/39136800?s=400&u=33cd3981aeb34653438e1910bbf7fa2b1565196a&v=4',
+        name:'Marcao',
+    },
+
+    {
+        image:'https://avatars.githubusercontent.com/u/39136800?s=400&u=33cd3981aeb34653438e1910bbf7fa2b1565196a&v=4',
+        name:'Ragnar',
+    },
+    {
+        image:'https://avatars.githubusercontent.com/u/39136800?s=400&u=33cd3981aeb34653438e1910bbf7fa2b1565196a&v=4',
+        name:'Guilherme',
+    },
+    {
+        image:'https://avatars.githubusercontent.com/u/39136800?s=400&u=33cd3981aeb34653438e1910bbf7fa2b1565196a&v=4',
+        name:'Zuriel',
+    },
+    {
+        image:'https://avatars.githubusercontent.com/u/39136800?s=400&u=33cd3981aeb34653438e1910bbf7fa2b1565196a&v=4',
+        name:'Sales',
+    },
+    {
+        image:'https://avatars.githubusercontent.com/u/39136800?s=400&u=33cd3981aeb34653438e1910bbf7fa2b1565196a&v=4',
+        name:'Maria',
+    },
+    {
+        image:'https://avatars.githubusercontent.com/u/39136800?s=400&u=33cd3981aeb34653438e1910bbf7fa2b1565196a&v=4',
+        name:'Camila',
+    },
+    
+];
